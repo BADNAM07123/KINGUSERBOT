@@ -1,15 +1,15 @@
 <h2 align="center">
-    ──「 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
+    ──「𝗕𝗔𝗗𝗡𝗔𝗠  𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
 
 <p align="center">
 <a href="https://github.com/WCGKING/KINGUSERBOT"><img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg" height="270" width="480" alt="Branded-Userbot"/></a>
 </p>
 
 <h2 align="center">
-    ──「 𝗞𝗜𝗡𝗚 𝗫 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
+    ──「 𝗕𝗔𝗗𝗡𝗔𝗠 𝗫𝗗  𝗨𝗦𝗘𝗥𝗕𝗢𝗧 」──
     
     
-「[𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗫 𝗞𝗜𝗡𝗚❤️💣](https://t.me/BRANDRD_BOT)」
+「[𝗕𝗔𝗗𝗡𝗔𝗠 𝗫𝗗  𝗞𝗜𝗡𝗚❤️💣](https://t.me/BRANDRD_BOT)」
 
 
 
@@ -28,7 +28,7 @@
 
 
 [![GIF](https://github.com/WCGKING/WCGKING/blob/main/WCGKING.gif)](https://github.com/WCGKING)
-   [![𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𓆩🇽𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
+   [![𝗕𝗔𝗗𝗡𝗔𝗠 𝗫𝗗 𓆩𓆪 𝗞𝗜𝗡𝗚 ](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")](https://github-stats-alpha.vercel.app/api?username=WCGKING "WCGKING")
 
 
 <h3 align="center">
@@ -47,7 +47,7 @@
 <h2>🌐 Updates & Support</h2>
 <p title="Support">You can join Genius-Userbot's official Telegram channel and group on Telegram for any Genius-Userbot updates and support-related issues.</p>
 
-- Telegram Channel: [**`@BRANDED_PAID_CC`**](https://t.me/BRANDED_PAID_CC)
+- Telegram Channel: [**`@Alone_xdllll`**](https://t.me/Alone_xdllll)
 
 - 
 <h2>📑 Acknowledgement / Credits</h2>
